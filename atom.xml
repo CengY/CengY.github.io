@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Light Up Life]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://cengy.github.io/"/>
-  <updated>2015-04-05T03:52:18.958Z</updated>
+  <updated>2015-04-05T12:30:13.521Z</updated>
   <id>http://cengy.github.io/</id>
   
   <author>
@@ -15,10 +15,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[Remember Forget]]></title>
+    <link href="http://cengy.github.io/2015/04/05/Rember-Forget/"/>
+    <id>http://cengy.github.io/2015/04/05/Rember-Forget/</id>
+    <published>2015-04-05T12:30:13.521Z</published>
+    <updated>2015-04-05T12:30:13.521Z</updated>
+    <content type="html"><![CDATA[<p>Light Up Your Life.</p>
+<h2 id="记得忘记">记得忘记</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">你在我记忆旅行，每步也惊心 </span><br><span class="line">跟你踏过许多足印，舍不得转身</span><br></pre></td></tr></table></figure>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Light Up Your Life.</p>
+<h2 id="记得忘记">记得忘记</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</sp]]>
+    </summary>
+    
+      <category term="语录" scheme="http://cengy.github.io/tags/%E8%AF%AD%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <link href="http://cengy.github.io/2015/04/05/hello-world/"/>
     <id>http://cengy.github.io/2015/04/05/hello-world/</id>
-    <published>2015-04-05T03:52:18.958Z</published>
+    <published>2015-04-05T12:23:49.238Z</published>
     <updated>2015-04-05T03:52:18.958Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
